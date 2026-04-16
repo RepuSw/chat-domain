@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-16T10:52:00Z",
+  "domains": {
+    "api": [
+      { "url": "https://imdev-api.rp1888.com", "weight": 10 }
+    ],
+    "ws": [
+      { "url": "wss://imdev-ws.rp1888.com", "weight": 10 }
+    ],
+    "business": [
+      { "url": "https://imdev-chatportal-api.rp1888.com", "weight": 10 }
+    ],
+    "fileUpload": [
+      { "url": "https://imdev-cf.rp1888.com", "weight": 10 }
+    ],
+    "fileDownload": [
+      { "url": "https://imdev-cf.rp1888.com", "weight": 10 }
+    ]
+  }
+}

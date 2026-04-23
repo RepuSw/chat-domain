@@ -12,7 +12,7 @@
       { "url": "https://imdev-chatportal-api.rp1888.com", "weight": 10 }
     ],
     "fileUpload": [
-      { "url": "https://imdev-cf.rp1888.com", "weight": 10 }
+      { "url": "https://imdev-upload.s3.ap-northeast-1.amazonaws.com", "weight": 10 }
     ],
     "fileDownload": [
       { "url": "https://imdev-cf.rp1888.com", "weight": 10 }

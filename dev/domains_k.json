@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:21:18Z",
+  "updatedAt": "2026-05-07T09:26:14Z",
   "domains": {
     "api": [
       { "url": "https://imdevk-api.rp1888.com", "weight": 10 }
@@ -12,7 +12,7 @@
       { "url": "https://imdevk-chatportal-api.rp1888.com", "weight": 10 }
     ],
     "fileUpload": [
-      { "url": "https://imdev-upload.s3.ap-northeast-1.amazonaws.com", "weight": 10 }
+      { "url": "https://imdevk-upload.s3.ap-northeast-1.amazonaws.com", "weight": 10 }
     ],
     "fileDownload": [
       { "url": "https://imdev-cf.rp1888.com", "weight": 10 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T09:21:18Z",
+  "updatedAt": "2026-05-07T09:26:14Z",
   "domains": {
     "api": [
       { "url": "https://imdev-api.rp1888.com", "weight": 10 }

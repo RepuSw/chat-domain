@@ -3,19 +3,19 @@
   "updatedAt": "2026-05-08T07:53:23Z",
   "domains": {
     "api": [
-      { "url": "https://imuat-api.rp1888.com", "weight": 10 }
+      { "url": "https://api.winplay66.com", "weight": 10 }
     ],
     "ws": [
-      { "url": "wss://imuat-ws.rp1888.com", "weight": 10 }
+      { "url": "wss://ws.winplay66.com", "weight": 10 }
     ],
     "business": [
-      { "url": "https://imuat-chatportal-api.rp1888.com", "weight": 10 }
+      { "url": "https://chatportal-api.winplay66.com", "weight": 10 }
     ],
     "fileUpload": [
-      { "url": "https://imuat-upload.s3.ap-northeast-1.amazonaws.com", "weight": 10 }
+      { "url": "https://improd-upload.s3.ap-east-1.amazonaws.com", "weight": 10 }
     ],
     "fileDownload": [
-      { "url": "https://imuat-cf.rp1888.com", "weight": 10 }
+      { "url": "https://cf.winplay66.com", "weight": 10 }
     ]
   }
 }

@@ -22,7 +22,7 @@
     ],
     "fileUpload": [
       {
-        "url": "https://api.winplay66.com",
+        "url": "https://improd-upload.s3.ap-east-1.amazonaws.com",
         "weight": 10
       }
     ],

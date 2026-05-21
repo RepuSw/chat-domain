@@ -1,21 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08T07:53:23Z",
+  "updatedAt": "2026-05-21T13:08:47Z",
   "domains": {
     "api": [
-      { "url": "https://api.winplay66.com", "weight": 10 }
+      {
+        "url": "https://api.winplay66.com",
+        "weight": 10
+      }
     ],
     "ws": [
-      { "url": "wss://ws.winplay66.com", "weight": 10 }
+      {
+        "url": "wss://ws.winplay66.com",
+        "weight": 10
+      }
     ],
     "business": [
-      { "url": "https://chatportal-api.winplay66.com", "weight": 10 }
+      {
+        "url": "https://chatportal-api.winplay66.com",
+        "weight": 10
+      }
     ],
     "fileUpload": [
-      { "url": "https://improd-cf.winplay66.com", "weight": 10 }
+      {
+        "url": "https://api.winplay66.com",
+        "weight": 10
+      }
     ],
     "fileDownload": [
-      { "url": "https://improd-cf.winplay66.com", "weight": 10 }
+      {
+        "url": "https://improd-cf.winplay66.com",
+        "weight": 10
+      }
     ]
   }
 }

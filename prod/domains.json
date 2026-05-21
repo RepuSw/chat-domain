@@ -12,7 +12,7 @@
       { "url": "https://chatportal-api.winplay66.com", "weight": 10 }
     ],
     "fileUpload": [
-      { "url": "https://improd-upload.s3.ap-east-1.amazonaws.com", "weight": 10 }
+      { "url": "https://improd-cf.winplay66.com", "weight": 10 }
     ],
     "fileDownload": [
       { "url": "https://improd-cf.winplay66.com", "weight": 10 }
